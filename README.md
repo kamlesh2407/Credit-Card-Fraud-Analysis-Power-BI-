@@ -80,11 +80,11 @@ The goal is to build a data-driven fraud detection system that identifies **high
 ## 📸 Dashboard Previews
 
 ### 🧾 Fraud Overview Dashboard
-![Fraud Overview Dashboard]<img width="1328" height="749" alt="image" src="https://github.com/user-attachments/assets/46706cf4-2738-42a5-bc72-71fe81ef9dbb" />
+<img width="1328" height="749" alt="image" src="https://github.com/user-attachments/assets/46706cf4-2738-42a5-bc72-71fe81ef9dbb" />
 
 
 ### 🧍 Merchant & Customer Analysis
-![Merchant & Customer Analysis]<img width="1329" height="752" alt="image" src="https://github.com/user-attachments/assets/6a919aea-d05c-4e82-be82-6a8830646732" />
+<img width="1329" height="752" alt="image" src="https://github.com/user-attachments/assets/6a919aea-d05c-4e82-be82-6a8830646732" />
 
 
 ---
